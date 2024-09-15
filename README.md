@@ -26,11 +26,11 @@ Explore the live site here: [Food Restaurant Website](https://foodrestaurantwebs
     ```
 3. Open `index.html` in your web browser to view the website locally.
 
-## Live Preview
+## Recorded Preview
 Here’s how the Food Restaurant website looks and functions across various devices:
 
-- [`Desktop View`](): Experience the clean layout, responsive design, and intuitive navigation on a large screen.
-- [`Mobile View`](): See how the design adapts for smaller screens, offering a user-friendly interface optimized for mobile browsing.
+- [`Desktop View`](desktopViewScreenRecording): Experience the clean layout, responsive design, and intuitive navigation on a large screen.
+- [`Mobile View`](mobileViewScreenRecording): See how the design adapts for smaller screens, offering a user-friendly interface optimized for mobile browsing.
 
 ## Technologies Used
 ### **Languages**:
