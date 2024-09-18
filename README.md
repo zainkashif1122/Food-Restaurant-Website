@@ -32,6 +32,8 @@ Here’s how the Food Restaurant website looks and functions across various devi
 - [`Desktop View`](desktopViewScreenRecording): Experience the clean layout, responsive design, and intuitive navigation on a large screen.
 - [`Mobile View`](mobileViewScreenRecording): See how the design adapts for smaller screens, offering a user-friendly interface optimized for mobile browsing.
 
+> **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
+
 ## Technologies Used
 ### **Languages**:
 - **HTML5**: For structuring the web pages.
