@@ -10,7 +10,7 @@ Explore the live site here: [Food Restaurant Website](https://foodrestaurantwebs
 ## Project Structure
 - [index.html](index.html): The main html file of the website, featuring the restaurant's services, showcases the full restaurant's services and the page that allows customers to reach out for inquiries.
 - [style.css](style.css): The CSS file for styling the website.
-- [images/](images/): A folder containing all images used throughout the website.
+- [images/](images.zip): A folder containing all images used throughout the website.
 
 ## How to View the Website
 **Live Website**: You can view the live version of the website through the following link: [Food Restaurant Website](https://foodrestaurantwebsitebyzk.netlify.app).
@@ -24,13 +24,13 @@ Explore the live site here: [Food Restaurant Website](https://foodrestaurantwebs
     ```bash
     cd food-restaurant-website
     ```
-3. Open `index.html` in your web browser to view the website locally.
+3. Open [index.html](index.html) in your web browser to view the website locally.
 
 ## Recorded Preview
 Here’s how the Food Restaurant website looks and functions across various devices:
 
-- [`Desktop View`](desktopViewScreenRecording): Experience the clean layout, responsive design, and intuitive navigation on a large screen.
-- [`Mobile View`](mobileViewScreenRecording): See how the design adapts for smaller screens, offering a user-friendly interface optimized for mobile browsing.
+- [`Desktop View`](desktopViewScreenRecording.mp4): Experience the clean layout, responsive design, and intuitive navigation on a large screen.
+- [`Mobile View`](mobileViewScreenRecording.mp4): See how the design adapts for smaller screens, offering a user-friendly interface optimized for mobile browsing.
 
 > **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
