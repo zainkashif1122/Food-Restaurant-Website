@@ -2,6 +2,8 @@
 
 Check out one of my another responsive food restaurant website! 🍽️
 
+![image](IMG_0716.jpeg)
+
 ## Description
 This is a fully responsive restaurant website, designed using HTML, CSS and JavaScript to provide an aesthetically pleasing layout across various screen sizes. It features a modern design that adapts beautifully to both desktop and mobile devices, ensuring a great user experience.
 
