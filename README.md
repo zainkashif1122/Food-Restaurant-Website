@@ -7,15 +7,15 @@ Check out one of my another responsive food restaurant website! 🍽️
 ## Description
 This is a fully responsive restaurant website, designed using HTML, CSS and JavaScript to provide an aesthetically pleasing layout across various screen sizes. It features a modern design that adapts beautifully to both desktop and mobile devices, ensuring a great user experience.
 
-Explore the live site here: [Food Restaurant Website](https://foodrestaurantwebsitebyzk.netlify.app)
+Explore the live site here: [`Food Restaurant Website`](https://foodrestaurantwebsitebyzk.netlify.app)
 
 ## Project Structure
-- [index.html](index.html): The main html file of the website, featuring the restaurant's services, showcases the full restaurant's services and the page that allows customers to reach out for inquiries.
-- [style.css](style.css): The CSS file for styling the website.
-- [images/](images.zip): A folder containing all images used throughout the website.
+- [`index.html`](index.html): The main html file of the website, featuring the restaurant's services, showcases the full restaurant's services and the page that allows customers to reach out for inquiries.
+- [`style.css`](style.css): The CSS file for styling the website.
+- [`images`](images.zip): A folder containing all images used throughout the website.
 
 ## How to View the Website
-**Live Website**: You can view the live version of the website through the following link: [Food Restaurant Website](https://foodrestaurantwebsitebyzk.netlify.app).
+**Live Website**: You can view the live version of the website through the following link: [`Food Restaurant Website`](https://foodrestaurantwebsitebyzk.netlify.app).
 
 ### Local Development:
 1. Clone the repository using the following command:
@@ -26,7 +26,7 @@ Explore the live site here: [Food Restaurant Website](https://foodrestaurantwebs
     ```bash
     cd food-restaurant-website
     ```
-3. Open [index.html](index.html) in your web browser to view the website locally.
+3. Open [`index.html`](index.html) in your web browser to view the website locally.
 
 ## Recorded Preview
 Here’s how the Food Restaurant website looks and functions across various devices:
